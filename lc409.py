@@ -25,4 +25,4 @@ class Solution:
         return longest_palindrome
 
 if __name__ == "__main__" :
-    print(Solution().longestPalindrome("sssasöklfjd"))
+    print(Solution().longestPalindrome("test"))
